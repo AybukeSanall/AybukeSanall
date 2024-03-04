@@ -18,6 +18,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![TYPESCRIPT](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Angular Material](https://img.shields.io/badge/angular_material-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/amazon%20aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![ML.NET](https://img.shields.io/badge/ML.NET-%23051247.svg?style=for-the-badge&logo=ml-dot-net&logoColor=white)
