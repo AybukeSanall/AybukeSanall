@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 - Computer Engineer.
-🌱 I’m currently learning .Net Core and Docker
+🌱 I’m currently learning .Net Core and Angular
 
 
 ## 🌐 Socials:
