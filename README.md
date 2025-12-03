@@ -46,9 +46,10 @@
 ![Bubble](https://img.shields.io/badge/bubble-%23000000.svg?style=for-the-badge&logo=bubble&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AybukeSanall&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AybukeSanall&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AybukeSanall&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AybukeSanall&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AybukeSanall&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
